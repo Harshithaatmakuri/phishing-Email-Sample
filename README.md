@@ -43,8 +43,3 @@ Analyze a simulated phishing email and identify key phishing indicators such as 
 
 ## ✅ Outcome
 Completed a full phishing analysis as per the internship task. Gained hands-on experience identifying spoofed senders, social engineering tactics, and suspicious email elements.
-
----
-
-## 🔗 Submission
-Repository submitted via official [Google Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
